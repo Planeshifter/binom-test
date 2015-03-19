@@ -20,7 +20,7 @@
   "main": "./lib",
   "repository": {
     "type": "git",
-    "url": "git://github.com/compute-io/binom.git"
+    "url": "git://github.com/compute-io/binom-test.git"
   },
   "keywords": [
     "compute.io",
@@ -28,7 +28,7 @@
     "computation"
   ],
   "bugs": {
-    "url": "https://github.com/compute-io/binom/issues"
+    "url": "https://github.com/compute-io/binom-test/issues"
   },
   "dependencies": {
     "jStat": "^1.1.3",
