@@ -8,7 +8,7 @@ binom
 ## Installation
 
 ``` bash
-$ npm install compute-binom
+$ npm install compute-binom-test
 ```
 
 For use in the browser, use [browserify](https://github.com/substack/node-browserify).
@@ -17,7 +17,7 @@ For use in the browser, use [browserify](https://github.com/substack/node-browse
 ## Usage
 
 ``` javascript
-var foo = require( 'compute-binom' );
+var foo = require( 'compute-binom-test' );
 ```
 
 #### foo( arr )
@@ -69,7 +69,7 @@ $ make view-cov
 ---
 ## License
 
-[MIT license](http://opensource.org/licenses/MIT). 
+[MIT license](http://opensource.org/licenses/MIT).
 
 
 ## Copyright

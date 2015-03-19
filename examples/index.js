@@ -1,3 +1,5 @@
 'use strict';
 
-var module = require( './../lib' );
+var binomTest = require( './../lib' );
+
+console.log( binomTest(682, 925, 0.75) );
